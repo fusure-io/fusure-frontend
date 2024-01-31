@@ -27,7 +27,7 @@ export default function Solution() {
                   <h3>Seamless Integrations</h3>
                   <p>
                     Effortlessly connect tools, databases, or import files.
-                    Assistify ensures compatibility with various platforms and
+                    Fusure ensures compatibility with various platforms and
                     file formats for a seamless experience.
                   </p>
                   <Link href="#" className="btn btn-secondary">
@@ -140,7 +140,7 @@ export default function Solution() {
                         />
                         <div className="solution-chat-message-item-content">
                           <h3>
-                            Assistify AI <span>8:42 PM</span>
+                            Fusure AI <span>8:42 PM</span>
                           </h3>
                           <p>Hey, I found two invoices for MasterCard</p>
                           <ol>
@@ -174,9 +174,9 @@ export default function Solution() {
                 <div className="col-md-6 pl-47 mt-30">
                   <h3>Assistance Everywhere</h3>
                   <p>
-                    Integrate Assistify into your favorite applications with our
+                    Integrate Fusure into your favorite applications with our
                     versatile options. From Slack to support apps, Zapier, Email
-                    software, and beyond – Assistify is ready to assist wherever
+                    software, and beyond – Fusure is ready to assist wherever
                     you need it.
                   </p>
                   <Link href="#" className="btn btn-secondary">

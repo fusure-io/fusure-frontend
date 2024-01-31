@@ -11,7 +11,7 @@ export default function Integrations() {
         title="Effortless"
         subtitle="Integrations"
         content="Easily connect tools, databases, or import files with just a few
-              clicks. Assistify seamlessly integrates with various platforms and
+              clicks. Fusure seamlessly integrates with various platforms and
               file formats, ensuring a smooth experience."
       />
       <div className="feature-area mt-192">
@@ -33,7 +33,7 @@ export default function Integrations() {
             <FeatureItem
               img="5"
               title="Google sheets"
-              content="Ditch the spreadsheet but keep the data—seamlessly connect your Google Sheets to Assistify, turning her into your ultimate productivity powerhouse!"
+              content="Ditch the spreadsheet but keep the data—seamlessly connect your Google Sheets to Fusure, turning her into your ultimate productivity powerhouse!"
               link="examples"
             />
             <FeatureItem
@@ -45,7 +45,7 @@ export default function Integrations() {
             <FeatureItem
               img="7"
               title="Notion"
-              content="Gear up for enhanced productivity as Notion collaborates with Assistify, enabling you to effortlessly integrate your Notion databases with your assistant like never before."
+              content="Gear up for enhanced productivity as Notion collaborates with Fusure, enabling you to effortlessly integrate your Notion databases with your assistant like never before."
               link="examples"
             />
             <FeatureItem
@@ -69,7 +69,7 @@ export default function Integrations() {
             <FeatureItem
               img="11"
               title="Mailchimp"
-              content="Unleash email marketing power with Mailchimp in Assistify. Effortlessly connect and leverage data, including reports, audiences, lists, and campaigns."
+              content="Unleash email marketing power with Mailchimp in Fusure. Effortlessly connect and leverage data, including reports, audiences, lists, and campaigns."
               link="examples"
             />
             <FeatureItem
@@ -100,7 +100,7 @@ a pro, never missing a beat!"
             <FeatureItem
               img="16"
               title="Stripe"
-              content="Unleash new possibilities with the Stripe integration in Assistify. Effortlessly connect and leverage your integration data, ensuring seamless financial transaction management."
+              content="Unleash new possibilities with the Stripe integration in Fusure. Effortlessly connect and leverage your integration data, ensuring seamless financial transaction management."
               link="examples"
             />
             <FeatureItem
@@ -118,7 +118,7 @@ a pro, never missing a beat!"
             <FeatureItem
               img="19"
               title="GitHub"
-              content="Unleash the potential of collaboration and code-sharing. Integrate your GitHub data with Assistify for real-time management and tracking of software development projects."
+              content="Unleash the potential of collaboration and code-sharing. Integrate your GitHub data with Fusure for real-time management and tracking of software development projects."
               link="examples"
             />
             <FeatureItem
@@ -130,7 +130,7 @@ a pro, never missing a beat!"
             <FeatureItem
               img="21"
               title="Trello"
-              content="Get ready to boost your productivity with Assistify! The Trello integration ensures a seamless connection between your assistant and your go-to project management tool."
+              content="Get ready to boost your productivity with Fusure! The Trello integration ensures a seamless connection between your assistant and your go-to project management tool."
               link="examples"
             />
             <FeatureItem
@@ -154,13 +154,13 @@ a pro, never missing a beat!"
             <FeatureItem
               img="25"
               title="Typeform"
-              content="Maximize form potential with Typeform integration. Assistify effortlessly connects and uses form data, elevating your chatbot assistant experience!"
+              content="Maximize form potential with Typeform integration. Fusure effortlessly connects and uses form data, elevating your chatbot assistant experience!"
               link="examples"
             />
             <FeatureItem
               img="26"
               title="Asana"
-              content="Supercharge your productivity with Asana's integration into Assistify. Your assistant now effortlessly connects your data, streamlining task management for enhanced efficiency."
+              content="Supercharge your productivity with Asana's integration into Fusure. Your assistant now effortlessly connects your data, streamlining task management for enhanced efficiency."
               link="examples"
             />
             <FeatureItem

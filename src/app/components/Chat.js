@@ -26,7 +26,7 @@ export default function Chat() {
           />
           <div className="hero-chat-item-content">
             <h3>
-              Assistify <span>1:17 PM</span>
+              Fusure <span>1:17 PM</span>
             </h3>
             <p>
               The revenue generated during the Black Friday Sale 2022 campaign
@@ -54,7 +54,7 @@ export default function Chat() {
           />
           <div className="hero-chat-item-content">
             <h3>
-              Assistify <span>1:17 PM</span>
+              Fusure <span>1:17 PM</span>
             </h3>
             <p>
               The open rate for the Black Friday Sale 2022 campaign was 25%.

@@ -158,7 +158,7 @@ export default function Conversations() {
                           />
                           <div class="solution-chat-message-item-content">
                             <h3>
-                              Assistify AI <span>8:42 PM</span>
+                              Fusure AI <span>8:42 PM</span>
                             </h3>
                             <p>
                               The current total inventory value for the Salad

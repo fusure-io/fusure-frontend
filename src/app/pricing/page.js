@@ -11,7 +11,7 @@ export default function Pricing() {
       <PageHero
         title="Pricing"
         subtitle="Plans"
-        content="Join our exclusive beta program to experience Assistify for free."
+        content="Join our exclusive beta program to experience Fusure for free."
       />
       <div className="mt-192">
         <Price />

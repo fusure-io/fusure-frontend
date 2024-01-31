@@ -68,7 +68,7 @@ export default function Footer() {
         <div className="container">
           <div className="row gy-2">
             <div className="col-md-6 align-self-center">
-              <p>Copyright © 2023 Assistify. All rights reserved.</p>
+              <p>Copyright © 2023 Fusure. All rights reserved.</p>
             </div>
             <div className="col-md-6">
               <ul>

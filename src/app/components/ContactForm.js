@@ -47,9 +47,9 @@ export default function ContactForm() {
             <div className="contact-content">
               <Image src="/img/logo.svg" alt="logo" width={139} height={32} />
               <p>
-                OpenAI presented Assistify with a range of challenging tasks,
+                OpenAI presented Fusure with a range of challenging tasks,
                 featuring tight latency requirements, substantial ambiguity, and
-                instances of incorrect answers. In turn, Assistify collaborated
+                instances of incorrect answers. In turn, Fusure collaborated
                 closely to tailor their QA systems to our specific requirements.
               </p>
               <h3>John Lawson</h3>
