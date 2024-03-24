@@ -9,21 +9,20 @@ export default function Hero() {
         <div className="row">
           <div className="col-md-12">
             <h1 className="title">
-              Craft an AI Assistant <br />
-              <span>in Minutes!</span>
+              Your custom  <br />
+              <span>AI Solutions</span>
+              <br /> Partner.
             </h1>
             <p className="mx-850 text-center">
-              Rapidly Develop a Tailored AI Assistant with OpenAI GPT-3.5:
-              Seamlessly Connect to Resources and Upload Files for Comprehensive
-              Assistance.
+            We deliver Machine learning Solutions for Your every Need.
             </p>
             <div className="hero-btn">
               <Link href="/contact" className="btn btn-primary">
-                Get Started
+                Contact us.
               </Link>
-              <Link href="/pricing" className="btn btn-tertiary">
+              {/* <Link href="/pricing" className="btn btn-tertiary">
                 View Pricing
-              </Link>
+              </Link> */}
             </div>
             <Chat />
           </div>
