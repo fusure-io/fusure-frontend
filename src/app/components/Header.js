@@ -16,7 +16,7 @@ export default function Header() {
           <div className="row align-items-center">
             <div className="col-md-2">
               <Link href="/">
-                <Image src="/img/logo.svg" alt="logo" width={139} height={32} />
+              <span>Fusure</span>
               </Link>
             </div>
             <div className="col-md-8">
